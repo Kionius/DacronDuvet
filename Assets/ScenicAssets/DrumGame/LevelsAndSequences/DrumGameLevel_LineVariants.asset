@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 546d6e2696956db429576a12682d143e, type: 3}
+  m_Name: DrumGameLevel_LineVariants
+  m_EditorClassIdentifier: 
+  sequences:
+  - {fileID: 11400000, guid: 5733062011c06964989e80d0556216a0, type: 2}
+  - {fileID: 11400000, guid: a85b6bb6a878c914d9dc613c0550073c, type: 2}
+  - {fileID: 11400000, guid: f8f55741968f6f24bbc8f4c0e7f00a64, type: 2}
+  - {fileID: 11400000, guid: 025aa5588464bd74da3dffd3a594871a, type: 2}

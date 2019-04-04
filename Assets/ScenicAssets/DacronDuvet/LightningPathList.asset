@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33cd40f08e659b54296ba226717c4aab, type: 3}
+  m_Name: LightningPathList
+  m_EditorClassIdentifier: 
+  animationCurves:
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.07502696
+      value: 0.0786438
+      inSlope: Infinity
+      outSlope: Infinity
+      tangentMode: 0
+    - time: 0.1857197
+      value: -0.07659912
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.41802624
+      value: 0.033111572
+      inSlope: Infinity
+      outSlope: Infinity
+      tangentMode: 0
+    - time: 0.65519786
+      value: 0.22354126
+      inSlope: Infinity
+      outSlope: Infinity
+      tangentMode: 0
+    - time: 0.70632666
+      value: -0.031036377
+      inSlope: Infinity
+      outSlope: Infinity
+      tangentMode: 0
+    - time: 0.8194197
+      value: 0.06210327
+      inSlope: Infinity
+      outSlope: Infinity
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0

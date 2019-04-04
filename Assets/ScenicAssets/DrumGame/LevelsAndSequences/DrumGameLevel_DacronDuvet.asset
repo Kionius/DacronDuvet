@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 546d6e2696956db429576a12682d143e, type: 3}
+  m_Name: DrumGameLevel_DacronDuvet
+  m_EditorClassIdentifier: 
+  sequences:
+  - {fileID: 11400000, guid: 12faf63b7b4b87b41a91df487be4a4ef, type: 2}
+  - {fileID: 11400000, guid: f465fd5081912f046bb23a459f2db24d, type: 2}
+  - {fileID: 11400000, guid: 4e8929f5bd0df3b4087c7e3ef68f51b0, type: 2}
+  - {fileID: 11400000, guid: 0ea936a0610d2334abb8104be1d84209, type: 2}
+  - {fileID: 11400000, guid: bf3b9682c58825645be934eef5b20043, type: 2}
+  - {fileID: 11400000, guid: 12faf63b7b4b87b41a91df487be4a4ef, type: 2}
+  - {fileID: 11400000, guid: f465fd5081912f046bb23a459f2db24d, type: 2}
+  - {fileID: 11400000, guid: 68e21e32d3df5aa49ad879142ad56010, type: 2}
+  - {fileID: 11400000, guid: 1dc169067847b2a4e98f1166410fe70d, type: 2}
+  - {fileID: 11400000, guid: 4596cd644c767dc469ef9b2170eaa32c, type: 2}
+  - {fileID: 11400000, guid: 4e8929f5bd0df3b4087c7e3ef68f51b0, type: 2}
+  - {fileID: 11400000, guid: 0ea936a0610d2334abb8104be1d84209, type: 2}
+  - {fileID: 11400000, guid: 5692ec245b90d714b949909df3971669, type: 2}
+  - {fileID: 11400000, guid: 9bc61d85e3d5d1245a3466e6b8f9ac05, type: 2}
+  - {fileID: 11400000, guid: 12faf63b7b4b87b41a91df487be4a4ef, type: 2}
+  - {fileID: 11400000, guid: bf3b9682c58825645be934eef5b20043, type: 2}

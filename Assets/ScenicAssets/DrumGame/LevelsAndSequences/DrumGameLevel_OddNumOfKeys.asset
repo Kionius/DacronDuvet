@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 546d6e2696956db429576a12682d143e, type: 3}
+  m_Name: DrumGameLevel_OddNumOfKeys
+  m_EditorClassIdentifier: 
+  sequences:
+  - {fileID: 11400000, guid: 0e76e5acbaa362b4b98ac213b260ee8c, type: 2}
+  - {fileID: 11400000, guid: 1a1f47abac54a844790ed6b63e02e029, type: 2}
+  - {fileID: 11400000, guid: 91e5e87cd0443104b9fb80703e36a8e3, type: 2}

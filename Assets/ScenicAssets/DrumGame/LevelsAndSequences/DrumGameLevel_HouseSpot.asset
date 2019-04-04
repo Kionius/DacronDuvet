@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 546d6e2696956db429576a12682d143e, type: 3}
+  m_Name: DrumGameLevel_HouseSpot
+  m_EditorClassIdentifier: 
+  sequences:
+  - {fileID: 11400000, guid: 9268bbf77105b764b8c5a985a02b7fa0, type: 2}
+  - {fileID: 11400000, guid: f465fd5081912f046bb23a459f2db24d, type: 2}
+  - {fileID: 11400000, guid: 4e8929f5bd0df3b4087c7e3ef68f51b0, type: 2}
+  - {fileID: 11400000, guid: 0ea936a0610d2334abb8104be1d84209, type: 2}
+  - {fileID: 11400000, guid: 9268bbf77105b764b8c5a985a02b7fa0, type: 2}
+  - {fileID: 11400000, guid: f465fd5081912f046bb23a459f2db24d, type: 2}
+  - {fileID: 11400000, guid: 0ea936a0610d2334abb8104be1d84209, type: 2}
+  - {fileID: 11400000, guid: 4e8929f5bd0df3b4087c7e3ef68f51b0, type: 2}
+  - {fileID: 11400000, guid: a422b96223b1c0545acd09cb38098b0a, type: 2}
+  - {fileID: 11400000, guid: 045265f2d99f76a42944ba896899e2b0, type: 2}
+  - {fileID: 11400000, guid: f465fd5081912f046bb23a459f2db24d, type: 2}
+  - {fileID: 11400000, guid: c71f7b4a5638107409d34227f45d0ff9, type: 2}
+  - {fileID: 11400000, guid: 9268bbf77105b764b8c5a985a02b7fa0, type: 2}
+  - {fileID: 11400000, guid: 4e8929f5bd0df3b4087c7e3ef68f51b0, type: 2}
+  - {fileID: 11400000, guid: 590e8e41810f8374caff00bee32b4d21, type: 2}
+  - {fileID: 11400000, guid: 0ea936a0610d2334abb8104be1d84209, type: 2}

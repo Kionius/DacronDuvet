@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 546d6e2696956db429576a12682d143e, type: 3}
+  m_Name: DrumGameLevel_VariedNumbers
+  m_EditorClassIdentifier: 
+  sequences:
+  - {fileID: 11400000, guid: 4edb17ff2db3d5a4887e4e1a2672105f, type: 2}
+  - {fileID: 11400000, guid: 3a3c6a38792384c448f6ff2a115427df, type: 2}
+  - {fileID: 11400000, guid: 942cd686d6be7a74ab545b5d2c42e3e0, type: 2}
+  - {fileID: 11400000, guid: 19ba16a312b49bf4197e74e9097d4ec3, type: 2}
